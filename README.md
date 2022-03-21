@@ -1,10 +1,3 @@
-<div>
-  <p align="center">
-    <img width="500" src="result_video.gif"> 
-  </p>
-</div>
-
----
 ### 실행 환경
 * #### Ubuntu
 * #### tensorflow-gpu Version : 2.0.0
